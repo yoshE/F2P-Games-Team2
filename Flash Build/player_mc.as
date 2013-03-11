@@ -9,11 +9,13 @@
 		/*public function player_mc() {
 			// constructor code
 		}*/
-		
+
 		public function player_mc(x:int, y:int){
 			this.x = x;
 			this.y = y;
 		}
+		
+
 	}
 	
 }
